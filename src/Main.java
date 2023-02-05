@@ -4,3 +4,7 @@ public class Main {
         System.out.println("asdasdas");
     }
 }
+
+class Momo{
+
+}
